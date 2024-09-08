@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is SungWooHyuk 
+🌱 I’m currently learning software
+
 <!--
 **1woohyuk/1woohyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
